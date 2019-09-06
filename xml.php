@@ -1,0 +1,9 @@
+<request>
+   <language>en</language>
+   <command>PING</command>
+   <merchant>
+      <apiLogin>11959c415b33d0c</apiLogin>
+      <apiKey>6u39nqhq8ftd0hlvnjfs66eh8c</apiKey>
+   </merchant>
+   <isTest>false</isTest>
+</request>

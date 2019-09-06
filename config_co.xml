@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>mymodule</name>
+	<displayName><![CDATA[PayU Latam]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Description of my module of pay.]]></description>
+	<author><![CDATA[Jonathan Sossa]]></author>
+	<tab><![CDATA[Test]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
